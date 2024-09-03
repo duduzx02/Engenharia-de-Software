@@ -1,4 +1,4 @@
-public class Main {
+public class ClasseString {
     public static void main(String[] args) {
         String valor = "Descomplica - java";
         System.out.println(valor.length());
