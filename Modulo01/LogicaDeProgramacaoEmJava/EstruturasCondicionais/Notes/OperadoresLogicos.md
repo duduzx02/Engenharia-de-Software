@@ -126,14 +126,10 @@ Vamos ver um exemplo prático usando operadores de comparação e lógicos junto
 int idade = 20;
 boolean temCarteiraDeMotorista = true;
 
-if(idade >=18&&temCarteiraDeMotorista){
-        System.out.
-
-println("Você pode dirigir.");
+if(idade >= 18 && temCarteiraDeMotorista){
+        System.out.println("Você pode dirigir.");
 }else{
-        System.out.
-
-println("Você não pode dirigir.");
+        System.out.println("Você não pode dirigir.");
 }
 ```
 
