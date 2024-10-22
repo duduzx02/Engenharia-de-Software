@@ -1,0 +1,2 @@
+- A classe HashSet do framework collections do java fornece as funcionalidades da estrutura de dados da tabela hash
+  - Podemos acessar, inserir e remover elementos.
