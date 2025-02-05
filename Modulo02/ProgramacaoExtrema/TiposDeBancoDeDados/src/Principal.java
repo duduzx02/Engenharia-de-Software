@@ -8,7 +8,6 @@ public class Principal {
         final String instrucaoSelect = "SELECT * FROM \"Pessoas\"";
 
 
-
         Connection conexao = null;
         Statement sentenca = null;
         ResultSet resultSet = null;
@@ -24,7 +23,7 @@ public class Principal {
             // Processando o resultado
             while(resultSet.next()){
                 int id = resultSet.getInt("id");
-                String name = resultSet.getString("name");
+               String name = resultSet.getString("name");
                 System.out.println("Id: " + id + " Nome: " + name);
             }
 

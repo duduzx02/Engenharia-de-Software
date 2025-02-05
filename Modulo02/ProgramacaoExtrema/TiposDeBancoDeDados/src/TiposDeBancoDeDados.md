@@ -22,3 +22,5 @@
 - Utilizada para analisar ou exexutar taredas em tabelas.
 - Comandos:
 - - insert, search, update e delete
+
+## Escrita de dados no banco
