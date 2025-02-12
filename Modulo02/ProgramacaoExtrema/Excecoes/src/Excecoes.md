@@ -8,3 +8,4 @@
 - Tentando lidar com a maioria das exceções, as linguagens oferecem mecanismos de exceções.
 - Exceções são disparadas quando aconcete um imprevisto na execução do programa.
 - Sendo erros de lógicas ou acesso a recursos indisponivéis, ex, um arquivo.
+- 
